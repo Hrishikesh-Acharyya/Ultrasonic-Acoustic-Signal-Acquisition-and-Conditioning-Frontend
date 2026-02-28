@@ -30,7 +30,7 @@ Provides rigorous harmonic rejection and isolates the 45 kHz target tone. It est
 
 ### 3. Output Stage (Inverting Buffer & Kickback Filter)
 Restores phase integrity (correcting the net 180° shift from the previous stages), biases the AC signal to **+1.65 V DC** for a unipolar 0-3.3V ADC, and provides a passive RC feedthrough filter ($f_{alias} \approx 1.06\text{ MHz}$) to protect against high frequency noise due to EMI that also acts as an ADC kickback filter.
-![Inverting Buffer Schematic](images/inverting_buffer.png)
+  ![Inverting Buffer Schematic](images/inverting_buffer.png)
 
 ## 🐍 Python Synthesis Scripts
 
