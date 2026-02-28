@@ -73,4 +73,4 @@ For full mathematical derivations of the transfer functions, theoretical vs. sim
 
 ---
 **Author:** Hrishikesh Acharyya  
-**Domain:** Electrical Engineering / Acoustic Signal Processing
+**Domain:** Electrical Engineering 
