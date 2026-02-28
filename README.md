@@ -1,5 +1,7 @@
 # Ultrasonic Underwater Acoustic Signal Acquisition and Conditioning Frontend
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18816771.svg)](https://doi.org/10.5281/zenodo.18816771)
+
 <p align="center">
   <img src="images/full_schematic_pic.png" alt="Complete System Schematic" width="100%">
 </p>
