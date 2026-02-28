@@ -6,11 +6,8 @@ The system acts as a highly resilient conditioning pipeline, bridging a raw piez
 
 ## 📁 Repository Structure
 
-* `Report/`
   * `Analog_Frontend_Project_Report.pdf` — Detailed theoretical derivations, BOM, and simulation results.
-* `Simulation/`
   * `adc_frontend.asc` — Complete LTspice schematic with all simulation directives.
-* `Scripts/`
   * `MFB_HPF_Butterworth.py` — Python algorithm for High-Pass Filter component derivation.
   * `MFB_LPF_Butterworth.py` — Python algorithm for Low-Pass Filter component derivation.
 
